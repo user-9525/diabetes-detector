@@ -1,0 +1,7 @@
+Flask
+numpy
+pandas
+scikit-learn
+openpyxl
+imbalanced-learn
+tqdm
